@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Test" file="C:\xampp\htdocs\sonar_server_php\test\Test.php" tests="1" assertions="2" errors="0" failures="0" skipped="0" time="0.010733">
+    <testcase name="testset" class="Test" classname="Test" file="C:\xampp\htdocs\sonar_server_php\test\Test.php" line="6" assertions="2" time="0.010733"/>
+  </testsuite>
+</testsuites>
